@@ -1,11 +1,16 @@
-# PF-Lab03-25K0940
+# My Profile  
 
-# About Me
+Hello, my name is Ali Hamad Panhwar.  
+I am a student of **BS Computer Science at FAST**.  
 
-My name is Ali Hamad Panhwar.  
-I am studying **BS Computer Science at FAST**.  
+## Programming Interests (Ordered List)  
+1. Web Development  
+2. Artificial Intelligence  
+3. App Development  
 
-## Programming Interests
-- C 
-- Python  
-- Game Development
+## Hobbies (Unordered List)  
+- Gym  
+- Watching shows  
+- Studying online  
+
+Here’s something I believe: ***Consistency is the key to success.***
